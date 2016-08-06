@@ -8,7 +8,7 @@
 | probos        | mbenben-vmware (ubuntu-x64-14.04)
 | deimos        | hitrobot-desktop-vmware (ubuntu-x64-14.04)
 | jupiter       | macbook (windows-x86-win7 / macintosh-x86)
-| io            | router (wifi-wds)
+| io            | router (wifi)
 | europa        | 
 | ganymede      | 
 | callisto      | 
